@@ -1,8 +1,8 @@
 # Uniisharee
 
- Live Demo
+##  Live Demo
 
-https://uniishareee.vercel.app/
+ https://uniishareee.vercel.app/
 
 ---
 
@@ -23,7 +23,7 @@ The main goal of this project is to provide a **fast, responsive, and clean plat
 
 ---
 
-## Key Features
+##  Key Features
 
 *  Fully responsive design (works on mobile & desktop)
 *  Fast loading and smooth user experience
@@ -33,7 +33,7 @@ The main goal of this project is to provide a **fast, responsive, and clean plat
 
 ---
 
-## 📂 Project Structure (Simplified)
+##  Project Structure (Simplified)
 
 ```id="c9h2sd"
 src/        → Application logic and UI components  
@@ -55,7 +55,7 @@ index.html  → Main entry point
 ##  Deployment
 
 The project is deployed on:
-Vercel
+ Vercel
 
 Steps:
 
