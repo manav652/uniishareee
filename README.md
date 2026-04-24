@@ -33,7 +33,7 @@ The main goal of this project is to provide a **fast, responsive, and clean plat
 
 ---
 
-## 📂 Project Structure (Simplified)
+## Project Structure (Simplified)
 
 ```id="c9h2sd"
 src/        → Application logic and UI components  
@@ -43,7 +43,7 @@ index.html  → Main entry point
 
 ---
 
-## ⚙️ How It Works (Simple Explanation)
+## How It Works (Simple Explanation)
 
 * The application is built using **modular UI components**
 * Each part of the UI is separated into reusable pieces
