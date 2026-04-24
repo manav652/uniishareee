@@ -1,12 +1,12 @@
-# 🚀 Uniisharee
+# Uniisharee
 
-## 🌐 Live Demo
+ Live Demo
 
-👉 https://uniishareee.vercel.app/
+https://uniishareee.vercel.app/
 
 ---
 
-## 📌 Overview
+##  Overview
 
 **Uniisharee** is a modern web application designed to help students connect, share resources, and access useful information in a simple and user-friendly way.
 
@@ -14,22 +14,22 @@ The main goal of this project is to provide a **fast, responsive, and clean plat
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
-* ⚛️ **React** – for building interactive user interfaces
-* 🎨 **Tailwind CSS** – for styling and responsive design
-* 🌐 **Web Technologies** – HTML, CSS, JavaScript
-* ☁️ **Cloud Deployment** – hosted using Vercel
+*  **React** – for building interactive user interfaces
+*  **Tailwind CSS** – for styling and responsive design
+*  **Web Technologies** – HTML, CSS, JavaScript
+*  **Cloud Deployment** – hosted using Vercel
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-* 📱 Fully responsive design (works on mobile & desktop)
-* ⚡ Fast loading and smooth user experience
-* 🧩 Component-based structure for scalability
-* 🎯 Clean and modern UI
-* 🚀 Easy deployment and maintenance
+*  Fully responsive design (works on mobile & desktop)
+*  Fast loading and smooth user experience
+*  Component-based structure for scalability
+*  Clean and modern UI
+*  Easy deployment and maintenance
 
 ---
 
@@ -52,10 +52,10 @@ index.html  → Main entry point
 
 ---
 
-## 🚀 Deployment
+##  Deployment
 
 The project is deployed on:
-👉 Vercel
+Vercel
 
 Steps:
 
@@ -65,14 +65,14 @@ Steps:
 
 ---
 
-## 👨‍💻 Contributors
+##  Contributors
 
 * **Lakshay** — UID: 24bcf10051
 * **Manav** — UID: 24bcf10030
 
 ---
 
-## 🎯 What I Learned
+##  What I Learned
 
 * Building scalable frontend applications
 * Managing project structure and components
@@ -82,7 +82,7 @@ Steps:
 
 ---
 
-## 💡 Future Improvements
+##  Future Improvements
 
 * User authentication system
 * Database integration
@@ -91,6 +91,6 @@ Steps:
 
 ---
 
-## 📜 Note
+##  Note
 
 This project was built for learning and practical implementation of modern web development concepts.
